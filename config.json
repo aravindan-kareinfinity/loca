@@ -1,0 +1,33 @@
+{
+  "name": "People Flow",
+  "port": 8000,
+  "debug": true,
+  "cameras": [
+    {
+      "idCode": "CAM-D97A595EAE81",
+      "name": "abc",
+      "location": "demo",
+      "description": "kj",
+      "ipOrHost": "115.240.137.245",
+      "port": null,
+      "protocol": "rtsp",
+      "streamPath": "axis-media/media.amp",
+      "username": "root",
+      "password": "Cqubepro",
+      "macAddress": "",
+      "mode": "Recognize",
+      "active": true,
+      "createdAt": "2025-11-13T13:47:31.896168",
+      "updatedAt": "2025-11-13T13:47:31.896168",
+      "lineEnabled": true,
+      "lineX1": null,
+      "lineY1": null,
+      "lineX2": null,
+      "lineY2": null,
+      "lineDirection": "AtoBIsIn",
+      "lineCountMode": "BOTH",
+      "streamingUrl": "rtsp://root:Cqubepro@115.240.137.245/axis-media/media.amp"
+    }
+  ],
+  "showwebcam": false
+}
